@@ -1,8 +1,9 @@
-
-
 const App = () => {
-  return <div>Hii there I am Prasanth Chandaka</div>;
-  
+  return (
+    <div>
+      My name is Prasanth,I am an aspiring web dev and Devops Engineer as well.
+    </div>
+  );
 };
 
 export default App;
