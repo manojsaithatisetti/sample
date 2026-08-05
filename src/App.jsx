@@ -12,6 +12,7 @@ const App = () => {
       <div>
         My name is Prasanth,I am an aspiring web dev and Devops Engineer as
         well.
+        <p>hi this is java clasees</p>
       </div>
     </div>
   );
